@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Practica 01</string>
+
+    <string name = "txt_altura"> Altura (m): </string>
+    <string name = "txt_peso"> Peso (kg): </string>
+
+    <string name = "editPeso"> Peso-kg </string>
+    <string name = "editAltura"> Altura-m </string>
+    <string name = "btnCalcular"> EJECUTAR </string>
+
+    <string name = "rp1"> LOW WEIGHT </string>
+    <string name = "rp2"> NORMAL </string>
+    <string name = "rp3"> OVERWEIGHT </string>
+    <string name = "rp4"> OBESITY </string>
+
+
+    <string name="reco1">Hable con su proveedor de atención médica para establecer las posibles causas del bajo peso y si necesita ganar peso.</string>
+    <string name="reco2">Mantener un peso saludable puede reducir el riesgo de enfermedades crónicas asociadas al sobrepeso y la obesidad.</string>
+    <string name="reco3">Las personas que tienen sobrepeso o son obesas tienen un mayor riesgo de afecciones crónicas, tales como hipertensión arterial, diabetes y colesterol alto.</string>
+    <string name="reco4">Las personas que tienen sobrepeso o son obesas tienen un mayor riesgo de afecciones crónicas, tales como hipertensión arterial, diabetes y colesterol alto.</string>
+
+</resources>

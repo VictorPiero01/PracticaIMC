@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Practica 01</string>
+
+    <string name = "txt_altura"> Height (m): </string>
+    <string name = "txt_peso"> Weight (kg): </string>
+
+    <string name = "editPeso"> Weight-kg </string>
+    <string name = "editAltura"> Height-m </string>
+    <string name = "btnCalcular"> Calculate </string>
+
+    <string name = "rp1"> BAJO PESO </string>
+    <string name = "rp2"> NORMAL </string>
+    <string name = "rp3"> SOBREPESO </string>
+    <string name = "rp4"> OBESIDAD </string>
+
+
+
+    <string name="reco1">Talk to your health care provider to establish possible causes of low weight and if you need to gain weight.</string>
+    <string name="reco2">Maintaining a healthy weight can reduce the risk of chronic diseases associated with overweight and obesity.</string>
+    <string name="reco3">People who are overweight or obese are at greater risk for chronic conditions, such as high blood pressure, diabetes, and high cholesterol.</string>
+    <string name="reco4">People who are overweight or obese are at greater risk for chronic conditions, such as high blood pressure, diabetes, and high cholesterol.</string>
+
+
+</resources>
